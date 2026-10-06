@@ -1,0 +1,14 @@
+{
+  "name": "mutual-fund-returns-tracker",
+  "version": "1.0.0",
+  "description": "Self-updating Google Sheets tracker for Indian mutual fund NAVs and returns (AMFI + mfapi.in) built with Google Apps Script",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Saurabh Khamkar",
+  "license": "MIT"
+}
